@@ -16,3 +16,4 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 9. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
 10. Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
 11. Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf)
+12.我只是来试一下的
